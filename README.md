@@ -1,93 +1,72 @@
-# Hi 👋, I'm Sai Pavan Middela
+<div align="center">
 
-**Curiosity fuels my journey as an aspiring engineer, driven to build products that tackle environmental and technological challenges. I explore diverse domains — from AI and quantum computing to sustainable energy and finance — always seeking ideas that can transform into impactful startups. My goal is to engineer solutions that not only innovate but also contribute meaningfully to the world.**
+# 🌟 Welcome to Sai Pavan Middela's Profile 🌟
+
+<p><em>Curiosity fuels my journey as an aspiring engineer, driven to build products that tackle environmental and technological challenges. I explore diverse domains — from AI and quantum computing to sustainable energy and finance — always seeking ideas that can transform into impactful startups. My goal is to engineer solutions that not only innovate but also contribute meaningfully to the world.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 🔭 I'm currently working on
 
-Currently Working on the AI based Ed-Tech Platform(Vi-Mentor)
+<div align="center"><p>Currently Working on the AI based Ed-Tech Platform(Vi-Mentor)</p></div>
 
 ## 🌱 I'm currently learning
 
-Learning about Deep Agents and LLMs to contribute to the real world problems.
+<div align="center"><p>Learning about Deep Agents and LLMs to contribute to the real world problems.</p></div>
 
 ## 👀 I'm interested in
 
-Artificial Intelligence, Robotics, Sustainable Energy Generation
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sai-helloworld/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sai-helloworld&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-helloworld&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-helloworld&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-helloworld&theme=default&hide_border=false" />
-</div>
+<div align="center"><p>Artificial Intelligence, Robotics, Sustainable Energy Generation</p></div>
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-React JS-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4">
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Django-4169e1?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
 
 ### 🧠 AI/ML
 
-<img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit Learn-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-LangChain-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-LangGraph-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-pavan-aa4067295/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sai-helloworld) 
-
+<div align = "CEnter">
+<a href="https://github.com/sai-helloworld"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/sai-pavan-aa4067295/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+<a href="https://www.kaggle.com/middelasaipavan"><img src="https://img.shields.io/badge/kaggle-%23000000.svg?style=for-the-badge&logo=kaggle&logoColor=black&color=21c0ff" /></a><a href="https://leetcode.com/u/sai-helloworld/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white&color=ffa217" /></a>  <a href="https://sai-helloworld.github.io/portfolio_website/#Home"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white&color=21211f" /></a> 
 </div>
-
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [nanisaipavan1234@gmail.com](mailto:nanisaipavan1234@gmail.com)
+**Email:** nanisaipavan1234@gmail.com
 
 </div>
 
----
-⭐️ From [Sai Pavan Middela](https://github.com/sai-helloworld)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sai-helloworld/count.svg" alt="Visitor Count" />
+
+<!-- ⚠️ Important: Replace 'sai-helloworld' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=sai-helloworld&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/sai-helloworld?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
 </div>
