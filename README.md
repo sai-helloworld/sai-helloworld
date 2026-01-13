@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Sai Pavan Middela's Profile 🌟
+# 🌟 Welcome to Sai Pavan's Profile 🌟
 
 <p><em>Curiosity fuels my journey as an aspiring engineer, driven to build products that tackle environmental and technological challenges. I explore diverse domains — from AI and quantum computing to sustainable energy and finance — always seeking ideas that can transform into impactful startups. My goal is to engineer solutions that not only innovate but also contribute meaningfully to the world.</em></p>
 
