@@ -5,7 +5,7 @@
 <p><em>Curiosity fuels my journey as an aspiring engineer, driven to build products that tackle environmental and technological challenges. I explore diverse domains — from AI and quantum computing to sustainable energy and finance — always seeking ideas that can transform into impactful startups. My goal is to engineer solutions that not only innovate but also contribute meaningfully to the world.</em></p>
 
 <img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-AI_Development-blue" alt="Focus" />
 
 </div>
 
